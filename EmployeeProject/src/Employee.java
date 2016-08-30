@@ -1,4 +1,4 @@
-
+//Adding a comment for second commit
 public class Employee {
 	private double sal,allowance;
 	private double tax;
